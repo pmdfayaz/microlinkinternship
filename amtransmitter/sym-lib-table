@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "transmier-cache") (type "Legacy") (uri "D:/Downloads/KICAD-main/transmier circuit/transmier-cache.lib") (options "") (descr "Legacy project cache library"))
+)
