@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "STRF-rescue") (type "Legacy") (uri "${KIPRJMOD}/STRF-rescue.lib") (options "") (descr ""))
+	(lib (name "STRF-cache") (type "Legacy") (uri "D:/Downloads/KICAD-main/STRF-Kicad-master/STRF-cache.lib") (options "") (descr "Legacy project cache library"))
+)
