@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "TPS61032PWPR") (type "Legacy") (uri "${KIPRJMOD}/with battery/libs/TPS61032PWPR.lib") (options "") (descr ""))
+	(lib (name "power supply-cache") (type "Legacy") (uri "D:/Downloads/KICAD-main/IN 12V OUT 1A 3V3 5V/power supply/power supply-cache.lib") (options "") (descr "Legacy project cache library"))
+)
