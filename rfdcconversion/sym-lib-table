@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "rf 2.45ghz support circuit-cache") (type "Legacy") (uri "D:/Downloads/KICAD-main/rf 2.45ghz support circuit/rf 2.45ghz support circuit-cache.lib") (options "") (descr "Legacy project cache library"))
+)

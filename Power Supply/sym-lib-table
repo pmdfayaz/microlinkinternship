@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "P_supply-cache") (type "Legacy") (uri "D:/Downloads/KICAD-main/Breadboard-powersupply/P_supply-cache.lib") (options "") (descr "Legacy project cache library"))
+)
